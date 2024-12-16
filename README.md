@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Anthony Rodriguez 👋 <img height="40"</h1>
-<h3 align="center">Systems engineer and programmer</h3>
+<h3 align="center">Software engineer and programmer</h3>
 
 -------------------
 Hello, I'm Anthony Rodriguez. I'm a programmer currently studying Systems Engineering. I'm passionate about programming and technology, constantly acquiring new knowledge and applying it to personal projects. My current goal is to expand my skills to seek job opportunities as a developer, where I can effectively apply my abilities and contribute to growth within the industry.
